@@ -4,7 +4,7 @@
 - 📍 Sou de Mogi-Mirim, interior de São Paulo!
 - 💻 Atualmente sou estudande de Desenvolvimento Web pela <a href="https://www.betrybe.com">Trybe!</a>
 
-## Ferramentas e Linguagens que uso atualmente e as que eu usarei futuramente.
+### Ferramentas e Linguagens que uso atualmente e as que eu usarei futuramente.
 
 <div align="center">
   <a href="https://github.com/LucasCavalheri">
