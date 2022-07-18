@@ -6,13 +6,15 @@
 
 #### Ferramentas e Linguagens que uso atualmente:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="LucasCavalheri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="LucasCavalheri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="LucasCavalheri-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="LucasCavalheri-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+<img align="center" alt="LucasCavalheri-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
+<img align="center" alt="LucasCavalheri-MacOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" 
 </div>
 
+ ##
 
 <div align="center">
   <a href="https://github.com/LucasCavalheri">
