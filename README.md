@@ -4,6 +4,8 @@
 - 📍 Sou de Mogi-Mirim, interior de São Paulo!
 - 💻 Atualmente sou estudande de Desenvolvimento Web pela <a href="https://www.betrybe.com">Trybe!</a>
 
+##
+
 #### Ferramentas e Linguagens que uso atualmente:
 
 <div style="display: inline_block">
