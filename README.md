@@ -35,7 +35,12 @@
   <a href="mailto:cav.catecumenal@outlook.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   <a href="https://api.whatsapp.com/send?phone=5519999438369&text=Ol%C3%A1%20Lucas!%20Te%20vi%20no%20GitHub!!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
    <a href="https://www.linkedin.com/in/lucas-cavalheri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
-
+ </div>
+   
+ ## 
+   
+ <div>
+  <img src="https://img.shields.io/github/followers/LucasCavalheri.svg?style=social&label=Follow&maxAge=2592000">
  </div>
  
  
