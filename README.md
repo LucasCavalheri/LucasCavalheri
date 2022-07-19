@@ -40,7 +40,7 @@
  ## 
    
  <div>
-  <img src="https://img.shields.io/github/followers/LucasCavalheri.svg?style=social&label=Follow&maxAge=2592000">>
+  <img src="https://img.shields.io/github/followers/LucasCavalheri.svg?style=social&label=Follow&maxAge=2592000">
  </div>
  
  
