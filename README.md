@@ -32,7 +32,9 @@
  
  <div>
   <a href="mailto:cav.catecumenal@gmail.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-   <a href="mailto:cav.catecumenal@outlook.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href="mailto:cav.catecumenal@outlook.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5519999438369&text=Ol%C3%A1%20Lucas!%20Te%20vi%20no%20GitHub!!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+
  </div>
  
  
