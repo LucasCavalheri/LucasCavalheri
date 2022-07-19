@@ -30,6 +30,9 @@
  
  #### Contato e Mídias Sociais:
  
- <a href="mailto:cav.catecumenal@gmail.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <div>
+  <a href="mailto:cav.catecumenal@gmail.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   <a href="mailto:cav.catecumenal@outlook.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+ </div>
  
  
