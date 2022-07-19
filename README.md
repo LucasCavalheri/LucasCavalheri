@@ -7,7 +7,7 @@
 
 ##
 
- #### 📱 Contato e Mídias Sociais:
+ #### 📱 **Contato e Mídias Sociais:**
  
  <div>
   <a href="mailto:cavalheri.contato@gmail.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -32,7 +32,7 @@
 
  ##
  
- #### **As que estão por vir...**
+ #### 🔥 **As que estão por vir...**
    
  <div style="display: inline_bock">
   <img align="center" alt="LucasCavalheri-React" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
