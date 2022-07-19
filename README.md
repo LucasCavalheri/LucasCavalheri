@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Cavalheri dos Santos!
+## Olá! Eu sou Lucas Cavalheri dos Santos!
 
 - 🗓️ Tenho 21 anos de idade! 
 - 📍 Sou de Mogi-Mirim, interior de São Paulo!
@@ -6,16 +6,16 @@
 
 ##
 
-#### Ferramentas e Linguagens que uso atualmente:
+#### Ferramentas e Linguagens que eu uso atualmente:
 
 <div style="display: inline_block">
-<img align="center" alt="LucasCavalheri-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-<img align="center" alt="LucasCavalheri-MacOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
-<img align="center" alt="LucasCavalheri-Visual-Studio-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="LucasCavalheri-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+ <img align="center" alt="LucasCavalheri-MacOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
+ <img align="center" alt="LucasCavalheri-Visual-Studio-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="LucasCavalheri-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="center" alt="LucasCavalheri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="LucasCavalheri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="LucasCavalheri-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ <img align="center" alt="LucasCavalheri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="LucasCavalheri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="LucasCavalheri-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 </div>
 
  ##
@@ -25,3 +25,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCavalheri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCavalheri&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ ##
+ 
+ #### Contato e Mídias Sociais:
+ 
+ <a href="mailto:cav.catecumenal@gmail.com?subject=Olá%20Lucas!%20%20te%20achei%20no%20GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ 
+ 
