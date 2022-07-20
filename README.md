@@ -37,6 +37,7 @@
  <div style="display: inline_bock">
   <img align="center" alt="LucasCavalheri-React" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="LucasCavalheri-Redux" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+   <img align="center" alt="LucasCavalheri-Jest" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="LucasCavalheri-Docker" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="LucasCavalheri-SQL" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="LucasCavalheri-NodeJS" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
