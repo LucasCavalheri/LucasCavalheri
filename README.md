@@ -52,16 +52,16 @@
             <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
            </td>
            <td width="80px" align="center">
-            <span><strong>Sequelize</strong></span><br><br>
-            <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
-           </td>
-           <td width="80px" align="center">
             <span><strong>NodeJS</strong></span><br><br>
             <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
            </td>
            <td width="80px" align="center">
             <span><strong>ExpressJS</strong></span><br><br>
             <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+           </td>
+          <td width="80px" align="center">
+            <span><strong>Sequelize</strong></span><br><br>
+            <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
            </td>
            <td width="80px" align="center">
             <span><strong>Mocha</strong></span><br><br>
