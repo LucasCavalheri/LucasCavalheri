@@ -102,14 +102,6 @@
         <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
       </td>
       <td width="80px" align="center">
-        <span><strong>Bootstrap</strong></span><br><br>
-        <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-      </td>
-      <td width="80px" align="center">
-        <span><strong>StyledComponents</strong></span><br><br>
-        <img height="35px" src="https://s4.aconvert.com/convert/p3r68-cdx67/azskh-wnstm.svg" />
-      </td>
-      <td width="80px" align="center">
         <span><strong>React</strong></span><br><br>
         <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
       </td>
