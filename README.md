@@ -2,7 +2,8 @@
 - 👋 Olá, me chamo Lucas Cavalheri dos Santos;
 - 📚 Estudande de Desenvolvimento Web Full-Stack na <a href="https://betrybe.com" target="_blank">Trybe</a>, com foco em Back-End;
 - 💬 Estou disponível para empregos. Busco oportunidades para adquirir experiência e disposto a mudar de cidade/local;
-- 📄 Currículo - [Clique para Download](Lucas-Cavalheri-Curriculo.pdf)
+- 🗂️ Portfólio: <a href="https://portfolio-n7gm6um4h-lucascavalheri.vercel.app/">Clique para Visualizar</a>;
+- 📄 Currículo - [Clique para Download](Lucas-Cavalheri-Curriculo.pdf);
 - 📧 Email: cav.catecumenal@gmail.com;
 - 📱 Celular: +55 (19) 99903-1230;
 - 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
