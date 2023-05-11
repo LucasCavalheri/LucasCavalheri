@@ -3,7 +3,7 @@
 - 📚 Estudande de Desenvolvimento Web Full-Stack na <a href="https://betrybe.com" target="_blank">Trybe</a>, com foco em Back-End;
 - 💬 Estou disponível para empregos. Busco oportunidades para adquirir experiência e disposto a mudar de cidade/local;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
-- 📄 Currículo - [Clique para Download](LucasCavalheri-CV.pdf);
+- 📄 Currículo - [Clique para Download](Lucas-Cavalheri-Curriculo.pdf);
 - 📧 Email: cav.catecumenal@gmail.com;
 - 📱 Celular: +55 (19) 99903-1230;
 - 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
