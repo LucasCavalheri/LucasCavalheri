@@ -2,7 +2,7 @@
 - 👋 Olá, me chamo Lucas Cavalheri dos Santos;
 - 💬 Atualmente estou em busca de empregos ou freelancers;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
-- 📄 Currículo - [Clique para Download](Lucas-Cavalheri-Curriculo.pdf);
+- 📄 Currículo - [Clique para Download](Curriculo-Lucas-Cavalheri.pdf);
 - 📧 Email: cav.catecumenal@gmail.com;
 - 📱 Celular: +55 (19) 99903-1230;
 - 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
