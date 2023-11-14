@@ -1,6 +1,6 @@
 ## 	🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 🌱 Desenvolvedor Back-End, mas também com um pé em Front-End!;
+- 🌱 Desenvolvedor Web Full-Stack!;
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC de Mogi-Mirim;
 - 💬 Atualmente estou em busca de empregos ou freelancers (Home Office ou na minha cidade);
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
