@@ -1,8 +1,7 @@
 ## 	🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 🌱 Desenvolvedor Web Full-Stack!;
+- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ Grupo NSC;
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC de Mogi-Mirim;
-- 💬 Atualmente estou em busca de empregos ou freelancers (Home Office ou na minha cidade);
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
 - 📄 Currículo - [Clique para Download](Curriculo-Lucas-Cavalheri.pdf);
 - 📧 Email: cav.catecumenal@gmail.com;
