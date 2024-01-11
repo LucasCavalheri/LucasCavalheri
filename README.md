@@ -3,7 +3,7 @@
 - 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ Grupo NSC;
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC de Mogi-Mirim;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
-- 📄 Currículo - [Clique para Download](Curriculo-Lucas-Carvalho-Cavalheri.pdf);
+- 📄 Currículo - [Clique para Download](Curriculo-LucasCavalheri.pdf);
 - 📧 Email: cav.catecumenal@gmail.com;
 - 📱 Celular: +55 (19) 99903-1230;
 - 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
