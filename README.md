@@ -1,6 +1,6 @@
 ## 	🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 💼 Atualmente atuo como Desenvolvedor Mobile & Web Full-Stack @ Grupo NSC;
+- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ Grupo NSC;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
 - 📄 Currículo - [Clique para Download](Curriculo-LucasCavalheri.pdf);
 - 📧 Email: cav.catecumenal@gmail.com;
