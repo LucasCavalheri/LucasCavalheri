@@ -1,9 +1,9 @@
 ## 	🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ Grupo NSC;
+- 💼 Atualmente atuo como Desenvolvedor Web @ TropicalHub;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
 - 📄 Currículo - [Clique para Download](Curriculo-LucasCavalheri.pdf);
-- 📧 Email: cav.catecumenal@gmail.com;
+- 📧 Email: lucas.dev.carvalho@gmail.com;
 - 📱 Celular: +55 (19) 99903-1230;
 - 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
 
