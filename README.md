@@ -1,7 +1,8 @@
 ## 🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ TropicalHub;
+- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ <a href="https://www.tropicalhub.co/">TropicalHub</a>;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
+- 🛤️ Portfólio Rails: <a href="https://www.rails.lucascavalheri.com.br">Clique para Visualizar</a>
 - 📄 Currículo: [Clique para Download](Curriculo-LucasCavalheri.pdf);
 - 📧 Email: lucas.dev.carvalho@gmail.com;
 - 📱 Celular: +55 (19) 99903-1230;
@@ -42,8 +43,6 @@
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🖼️ Front-End
 
@@ -61,7 +60,6 @@
 
 ![ActiveRecord](https://img.shields.io/badge/ActiveRecord-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Eloquent](https://img.shields.io/badge/Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 💾 Banco de Dados
 
