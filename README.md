@@ -1,4 +1,4 @@
-## 	🤖 Sobre Mim
+## 🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
 - 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ TropicalHub;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br/">Clique para Visualizar</a>;
@@ -48,23 +48,14 @@
 ## 🖼️ Front-End
 
 ![ERB](https://img.shields.io/badge/ERB-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-%23A73424.svg?style=for-the-badge&logo=hotwire&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<!--
-## 📱 Mobile
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
--->
 
 ## 🧮 Back-End
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-%23000000.svg?style=for-the-badge&logo=rubysinatra&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## 🎋 ORM's
 
