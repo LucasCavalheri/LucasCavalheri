@@ -39,28 +39,31 @@
 
 ## 📋 Linguagens
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## 🖼️ Front-End
 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Alpine.js](https://img.shields.io/badge/alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ERB](https://img.shields.io/badge/ERB-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Hotwire](https://img.shields.io/badge/Hotwire-%23A73424.svg?style=for-the-badge&logo=hotwire&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 
 ## 🧮 Back-End
 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Inertia](https://img.shields.io/badge/inertia-%23955DFF.svg?style=for-the-badge&logo=inertia&logoColor=white)
+![Filament](https://img.shields.io/badge/filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=black)
 
 ## 🎋 ORM's
 
+![Eloquent](https://img.shields.io/badge/Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![ActiveRecord](https://img.shields.io/badge/ActiveRecord-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## 💾 Banco de Dados
 
