@@ -1,6 +1,6 @@
 ## 🤖 Sobre Mim
 - 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack @ <a href="https://www.tropicalhub.co">TropicalHub</a>;
+- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack Pleno @ <a href="https://www.tropicalhub.co">TropicalHub</a>;
 - 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br">Clique para Visualizar</a>;
 - 📄 Currículo: [Clique para Download](Curriculo-LucasCavalheri.pdf);
 - 📧 Email: lucas.dev.carvalho@gmail.com;
