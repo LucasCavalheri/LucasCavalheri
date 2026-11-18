@@ -1,12 +1,11 @@
-## 🤖 Sobre Mim
-- 👋 Olá, me chamo Lucas Carvalho Cavalheri;
-- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack Pleno @ <a href="https://www.tropicalhub.co">TropicalHub</a>;
-- 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br">Clique para Visualizar</a>;
-- 📄 Currículo: [Clique para Download](Curriculo-LucasCavalheri.pdf);
-- 📧 Email: lucas.dev.carvalho@gmail.com;
-- 📱 Celular: +55 (19) 99903-1230;
-- 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
-  
+## 👤 Sobre Mim
+- 👋 Olá, me chamo Lucas Carvalho Cavalheri.
+- 💼 Atualmente atuo como Desenvolvedor Web Full-Stack Pleno @ <a href="https://www.tropicalhub.co">TropicalHub</a>.
+- 🗂️ Portfólio: <a href="https://www.lucascavalheri.com.br">lucascavalheri.com.br</a>
+- 📄 Currículo: [Baixar PDF](Curriculo-LucasCavalheri.pdf)
+- 📧 Email: lucas.dev.carvalho@gmail.com
+- 📫 LinkedIn e WhatsApp estão logo abaixo. Me chame lá!
+
 ## 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://linkedin.com/in/lucas-cavalheri)
@@ -17,7 +16,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUuMDQyIDE1LjE2NWEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyIDIuNTIzQTIuNTI4IDIuNTI4IDAgMCAxIDAgMTUuMTY1YTIuNTI3IDIuNTI3IDAgMCAxIDIuNTIyLTIuNTJoMi41MnYyLjUyek02LjMxMyAxNS4xNjVhMi41MjcgMi41MjcgMCAwIDEgMi41MjEtMi41MiAyLjUyNyAyLjUyNyAwIDAgMSAyLjUyMSAyLjUydjYuMzEzQTIuNTI4IDIuNTI4IDAgMCAxIDguODM0IDI0YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIxLTIuNTIydi02LjMxM3pNOC44MzQgNS4wNDJhMi41MjggMi41MjggMCAwIDEtMi41MjEtMi41MkEyLjUyOCAyLjUyOCAwIDAgMSA4LjgzNCAwYTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIxIDIuNTIydjIuNTJIOC44MzR6TTguODM0IDYuMzEzYTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIxIDIuNTIxIDIuNTI4IDIuNTI4IDAgMCAxLTIuNTIxIDIuNTIxSDIuNTIyQTIuNTI4IDIuNTI4IDAgMCAxIDAgOC44MzRhMi41MjggMi41MjggMCAwIDEgMi41MjItMi41MjFoNi4zMTJ6TTE4Ljk1NiA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMi0yLjUyMUEyLjUyOCAyLjUyOCAwIDAgMSAyNCA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMiAyLjUyMWgtMi41MjJWOC44MzR6TTE3LjY4OCA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMyAyLjUyMSAyLjUyNyAyLjUyNyAwIDAgMS0yLjUyLTIuNTIxVjIuNTIyQTIuNTI3IDIuNTI3IDAgMCAxIDE1LjE2NSAwYTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIzIDIuNTIydjYuMzEyek0xNS4xNjUgMTguOTU2YTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIzIDIuNTIyQTIuNTI4IDIuNTI4IDAgMCAxIDE1LjE2NSAyNGEyLjUyNyAyLjUyNyAwIDAgMS0yLjUyLTIuNTIydi0yLjUyMmgyLjUyek0xNS4xNjUgMTcuNjg4YTIuNTI3IDIuNTI3IDAgMCAxLTIuNTItMi41MjMgMi41MjYgMi41MjYgMCAwIDEgMi41Mi0yLjUyaDYuMzEzQTIuNTI3IDIuNTI3IDAgMCAxIDI0IDE1LjE2NWEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMiAyLjUyM2gtNi4zMTN6Ii8+PC9zdmc+)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 
-## 🎛️ SO's
+## 🎛️ Sistemas Operacionais
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -30,8 +29,8 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🤖 IA's
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNOS4yNyAxNS4yOWw3Ljk3OC01Ljg5N2MuMzkxLS4yOS45NS0uMTc3IDEuMTM3LjI3Mi45OCAyLjM2OS41NDIgNS4yMTUtMS40MSA3LjE2OS0xLjk1MSAxLjk1NC00LjY2NyAyLjM4Mi03LjE0OSAxLjQwNmwtMi43MTEgMS4yNTdjMy44ODkgMi42NjEgOC42MTEgMi4wMDMgMTEuNTYyLS45NTMgMi4zNDEtMi4zNDQgMy4wNjYtNS41MzkgMi4zODgtOC40MmwuMDA2LjAwN2MtLjk4My00LjIzMi4yNDItNS45MjQgMi43NS05LjM4My4wNi0uMDgyLjEyLS4xNjQuMTc5LS4yNDhsLTMuMzAxIDMuMzA1di0uMDFMOS4yNjcgMTUuMjkyTTcuNjIzIDE2LjcyM2MtMi43OTItMi42Ny0yLjMxLTYuODAxLjA3MS05LjE4NCAxLjc2MS0xLjc2MyA0LjY0Ny0yLjQ4MyA3LjE2Ni0xLjQyNWwyLjcwNS0xLjI1YTcuODA4IDcuODA4IDAgMDAtMS44MjktMUE4Ljk3NSA4Ljk3NSAwIDAwNS45ODQgNS44M2MtMi41MzMgMi41MzYtMy4zMyA2LjQzNi0xLjk2MiA5Ljc2NCAxLjAyMiAyLjQ4Ny0uNjUzIDQuMjQ2LTIuMzQgNi4wMjItLjU5OS42My0xLjE5OSAxLjI1OS0xLjY4MiAxLjkyNWw3LjYyLTYuODE1Ii8+PC9zdmc+)
+## 🤖 IAs
+
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNOC4wODYuNDU3YTYuMTA1IDYuMTA1IDAgMDEzLjA0Ni0uNDE1YzEuMzMzLjE1MyAyLjUyMS43MiAzLjU2NCAxLjdhLjExNy4xMTcgMCAwMC4xMDcuMDI5YzEuNDA4LS4zNDYgMi43NjItLjIyNCA0LjA2MS4zNjZsLjA2My4wMy4xNTQuMDc2YzEuMzU3LjcwMyAyLjMzIDEuNzcgMi45MTggMy4xOTguMjc4LjY3OS40MTggMS4zODguNDIxIDIuMTI2YTUuNjU1IDUuNjU1IDAgMDEtLjE4IDEuNjMxLjE2Ny4xNjcgMCAwMC4wNC4xNTUgNS45ODIgNS45ODIgMCAwMTEuNTc4IDIuODkxYy4zODUgMS45MDEtLjAxIDMuNjE1LTEuMTgzIDUuMTRsLS4xODIuMjJhNi4wNjMgNi4wNjMgMCAwMS0yLjkzNCAxLjg1MS4xNjIuMTYyIDAgMDAtLjEwOC4xMDJjLS4yNTUuNzM2LS41MTEgMS4zNjQtLjk4NyAxLjk5Mi0xLjE5OSAxLjU4Mi0yLjk2MiAyLjQ2Mi00Ljk0OCAyLjQ1MS0xLjU4My0uMDA4LTIuOTg2LS41ODctNC4yMS0xLjczNmEuMTQ1LjE0NSAwIDAwLS4xNC0uMDMyYy0uNTE4LjE2Ny0xLjA0LjE5MS0xLjYwNC4xODVhNS45MjQgNS45MjQgMCAwMS0yLjU5NS0uNjIyIDYuMDU4IDYuMDU4IDAgMDEtMi4xNDYtMS43ODFjLS4yMDMtLjI2OS0uNDA0LS41MjItLjU1MS0uODIxYTcuNzQgNy43NCAwIDAxLS40OTUtMS4yODMgNi4xMSA2LjExIDAgMDEtLjAxNy0zLjA2NC4xNjYuMTY2IDAgMDAuMDA4LS4wNzQuMTE1LjExNSAwIDAwLS4wMzctLjA2NCA1Ljk1OCA1Ljk1OCAwIDAxLTEuMzgtMi4yMDIgNS4xOTYgNS4xOTYgMCAwMS0uMzMzLTEuNTg5IDYuOTE1IDYuOTE1IDAgMDEuMTg4LTIuMTMyYy40NS0xLjQ4NCAxLjMwOS0yLjY0OCAyLjU3Ny0zLjQ5My4yODItLjE4OC41NS0uMzM0LjgwMi0uNDM4LjI4Ni0uMTIuNTczLS4yMi44NjEtLjMwNGEuMTI5LjEyOSAwIDAwLjA4Ny0uMDg3QTYuMDE2IDYuMDE2IDAgMDE1LjYzNSAyLjMxQzYuMzE1IDEuNDY0IDcuMTMyLjg0NiA4LjA4Ni40NTd6bS0uODA0IDcuODVhLjg0OC44NDggMCAwMC0xLjQ3My44NDJsMS42OTQgMi45NjUtMS42ODggMi44NDhhLjg0OS44NDkgMCAwMDEuNDYuODY0bDEuOTQtMy4yNzJhLjg0OS44NDkgMCAwMC4wMDctLjg1NGwtMS45NC0zLjM5M3ptNS40NDYgNi4yNGEuODQ5Ljg0OSAwIDAwMCAxLjY5NWg0Ljg0OGEuODQ5Ljg0OSAwIDAwMC0xLjY5NmgtNC44NDh6Ii8+PC9zdmc+)
@@ -48,7 +47,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🧮 Back-End
@@ -57,9 +57,10 @@
 ![Bun](https://img.shields.io/badge/Bun-%23FBF0DF.svg?style=for-the-badge&logo=bun&logoColor=14151A)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Hono](https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## 🎋 ORM's
+## 🎋 ORMs
 
 ![Drizzle](https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -74,8 +75,8 @@
 ## ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIxLjY5OCAxNi4yMDdjLTIuNjI2IDEuOTQtNi40NDIgMi45NjktOS43MjIgMi45NjktNC41OTggMC04Ljc0LTEuNy0xMS44Ny00LjUyNi0uMjQ3LS4yMjMtLjAyNC0uNTI3LjI3Mi0uMzUxIDMuMzg0IDEuOTYzIDcuNTU5IDMuMTUzIDExLjg3NyAzLjE1MyAyLjkxNCAwIDYuMTE0LS42MDcgOS4wNi0xLjg1Mi40MzktLjIuODE0LjI4Ny4zODMuNjA3em0xLjA5NC0xLjI0NmMtLjMzNi0uNDMtMi4yMi0uMjA3LTMuMDc0LS4xMDMtLjI1NS4wMzItLjI5NS0uMTkyLS4wNjMtLjM2IDEuNS0xLjA1MyAzLjk2Ny0uNzUgNC4yNTQtLjM5OS4yODcuMzYtLjA4IDIuODI2LTEuNDg1IDQuMDA3LS4yMTUuMTg0LS40MjMuMDg4LS4zMjctLjE1MS4zMi0uNzkgMS4wMy0yLjU3LjY5NS0yLjk5NHoiLz48L3N2Zz4=)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
